@@ -43,7 +43,7 @@ I created this project to practice:
 Clone the repository:
 
 ```bash id="x5m2rp"
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/MaouRim/passowrd_checker
 ```
 
 Run the program:
